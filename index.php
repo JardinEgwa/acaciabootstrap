@@ -42,16 +42,16 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">Acacia</a></h1>
+      <h1 class="logo me-auto"><a href="index.php">Acacia</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+      <!-- <a href="index.php" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a class="active" href="index.html">Home</a></li>
-          <li><a href="about.html">About</a></li>
-          <li><a href="courses.html">Courses</a></li>
-          <li><a href="trainers.html">Trainers</a></li>
+          <li><a class="active" href="index.php">Home</a></li>
+          <li><a href="about.php">About</a></li>
+          <li><a href="courses.php">Courses</a></li>
+          <li><a href="trainers.php">Trainers</a></li>
 <!--          <li><a href="events.html">Events</a></li>-->
 <!--          <li><a href="pricing.html">Pricing</a></li>-->
 
@@ -72,12 +72,12 @@
 <!--              <li><a href="#">Drop Down 4</a></li>-->
 <!--            </ul>-->
 <!--          </li>-->
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="contact.php">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="courses.html" class="get-started-btn">Get Started</a>
+      <a href="courses.php" class="get-started-btn">Get Started</a>
 
     </div>
   </header><!-- End Header -->
@@ -87,7 +87,7 @@
     <div class="container position-relative" data-aos="zoom-in" data-aos-delay="100">
       <h1>Learning Today,<br>Leading Tomorrow</h1>
       <h2>We are team of talented therapits who work towards the better development of your child</h2>
-      <a href="courses.html" class="btn-get-started">Get Started</a>
+      <a href="courses.php" class="btn-get-started">Get Started</a>
     </div>
   </section><!-- End Hero -->
 
@@ -168,7 +168,7 @@
                 Our trainers are the best and have years of experience guaranteeing your child quality education.
               </p>
               <div class="text-center">
-                <a href="about.html" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
+                <a href="about.php" class="more-btn">Learn More <i class="bx bx-chevron-right"></i></a>
               </div>
             </div>
           </div>
@@ -293,7 +293,7 @@
                   <p class="price">Ksh 5000</p>
                 </div>
 
-                <h3><a href="course-details.html">Sensory Intergration</a></h3>
+                <h3><a href="course-details.php">Sensory Intergration</a></h3>
                 <p> Sensory integration therapy is used to help children learn to use all their senses together – that is, touch, smell, taste, sight and hearing. It's claimed that this therapy can improve difficulties associated with autism, like challenging behaviour or repetitive behaviour.</p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
@@ -319,7 +319,7 @@
                   <p class="price">Ksh 2500</p>
                 </div>
 
-                <h3><a href="course-details.html">Speech Therapy</a></h3>
+                <h3><a href="course-details.php">Speech Therapy</a></h3>
                 <p>Speech therapy is the assessment and treatment of communication problems and speech disorders. It is performed by speech-language pathologists (SLPs), which are often referred to as speech therapists. </p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">
@@ -345,7 +345,7 @@
                   <p class="price">Ksh 5000</p>
                 </div>
 
-                <h3><a href="course-details.html">Behaviour Management</a></h3>
+                <h3><a href="course-details.php">Behaviour Management</a></h3>
                 <p>Behaviour management is the process of supporting learners to make positive choices that are conducive to learning. </p>
                 <div class="trainer d-flex justify-content-between align-items-center">
                   <div class="trainer-profile d-flex align-items-center">

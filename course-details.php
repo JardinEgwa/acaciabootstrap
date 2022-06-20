@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>About - Mentor Bootstrap Template</title>
+  <title>Acacia Neurodevelopment Centre</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -42,16 +42,16 @@
   <header id="header" class="fixed-top">
     <div class="container d-flex align-items-center">
 
-      <h1 class="logo me-auto"><a href="index.html">Acacia</a></h1>
+      <h1 class="logo me-auto"><a href="index.php">Mentor</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a class="active" href="about.html">About</a></li>
-          <li><a href="courses.html">Courses</a></li>
-          <li><a href="trainers.html">Trainers</a></li>
+          <li><a href="index.php">Home</a></li>
+          <li><a href="about.php">About</a></li>
+          <li><a class="active" href="courses.php">Courses</a></li>
+          <li><a href="trainers.php">Trainers</a></li>
 <!--          <li><a href="events.html">Events</a></li>-->
 <!--          <li><a href="pricing.html">Pricing</a></li>-->
 
@@ -72,178 +72,158 @@
 <!--              <li><a href="#">Drop Down 4</a></li>-->
 <!--            </ul>-->
 <!--          </li>-->
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="contact.php">Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
 
-      <a href="courses.html" class="get-started-btn">Get Started</a>
+      <a href="courses.php" class="get-started-btn">Get Started</a>
 
     </div>
   </header><!-- End Header -->
 
   <main id="main">
+
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs" data-aos="fade-in">
       <div class="container">
-        <h2>About Us</h2>
+        <h2>Course Details</h2>
 
       </div>
     </div><!-- End Breadcrumbs -->
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
+    <!-- ======= Cource Details Section ======= -->
+    <section id="course-details" class="course-details">
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/smiling%20children.jpg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
-            <h3>OUR PHILOSOPHY</h3>
-            <p class="fst-italic">
-              Acacia Neurodevelopment Centre has created a family, founded by attachments between children and educators, in addition to respectful partnerships formed between the centre team and parents. We are a 'home away from home' for your children, where they are genuinely loved, with a focus on nurturing relationship and age-appropriate and play-based academic program. Each educators in the centre learns your child's name and their individual routine and preferences, so you can rest assured we will provide your family with personalised care and attention.
+          <div class="col-lg-8">
+            <img src="assets/img/course-details.jpg" class="img-fluid" alt="">
+            <h3>Sensory Intergration</h3>
+            <p>
+              Sensory integration therapy is used to help children learn to use all their senses together – that is, touch, smell, taste, sight and hearing. It's claimed that this therapy can improve difficulties associated with autism, like challenging behaviour or repetitive behaviour
             </p>
-            <p>We offer therapy for children with conditions like:</p>
-            <ul>
-              <li><i class="bi bi-check-circle"></i> Autism</li>
-              <li><i class="bi bi-check-circle"></i> Celebral Palsy</li>
-              <li><i class="bi bi-check-circle"></i> Down Syndrome</li>
-              <li><i class="bi bi-check-circle"></i> Delayed milestones</li>
-              <li><i class="bi bi-check-circle"></i> Delayed speech</li>
-            </ul>
+          </div>
+          <div class="col-lg-4">
 
+            <div class="course-info d-flex justify-content-between align-items-center">
+              <h5>Trainer</h5>
+              <p><a href="#">Rose Wendo</a></p>
+            </div>
+
+            <div class="course-info d-flex justify-content-between align-items-center">
+              <h5>Course Fee</h5>
+              <p>Ksh 5000</p>
+            </div>
+
+            <div class="course-info d-flex justify-content-between align-items-center">
+              <h5>Available Seats</h5>
+              <p>30</p>
+            </div>
+
+            <div class="course-info d-flex justify-content-between align-items-center">
+              <h5>Schedule</h5>
+              <p>10.00 am - 12.00 pm</p>
+            </div>
 
           </div>
         </div>
 
       </div>
-    </section><!-- End About Section -->
+    </section><!-- End Cource Details Section -->
 
-    <!-- ======= Counts Section ======= -->
-    <section id="counts" class="counts section-bg">
-      <div class="container">
-
-        <div class="row counters">
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="400" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Students</p>
-          </div>
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Courses</p>
-          </div>
-
-<!--          <div class="col-lg-3 col-6 text-center">-->
-<!--            <span data-purecounter-start="0" data-purecounter-end="42" data-purecounter-duration="1" class="purecounter"></span>-->
-<!--            <p>Events</p>-->
-<!--          </div>-->
-
-          <div class="col-lg-3 col-6 text-center">
-            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-            <p>Trainers</p>
-          </div>
-
-        </div>
-
-      </div>
-    </section><!-- End Counts Section -->
-
-    <!-- ======= Testimonials Section ======= -->
-    <section id="testimonials" class="testimonials">
+    <!-- ======= Cource Details Tabs Section ======= -->
+    <section id="cource-details-tabs" class="cource-details-tabs">
       <div class="container" data-aos="fade-up">
 
-        <div class="section-title">
-          <h2>Testimonials</h2>
-          <p>What are they saying</p>
-        </div>
-
-        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
-          <div class="swiper-wrapper">
-
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/Ceo.jpeg" class="testimonial-img" alt="">
-                  <h3>Winnie Melania</h3>
-                  <h4>Ceo &amp; Founder</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                   Acacia is the place to be.
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/PARENT2.jpeg" class="testimonial-img" alt="">
-                  <h3>Douglas Kiptoo</h3>
-                  <h4>Parent</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    I have never seen a school this committed to children's welfare
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/Parent1.jpg" class="testimonial-img" alt="">
-                  <h3>Jane Njoki</h3>
-                  <h4>Parent</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    My child has never been better!
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-wrap">
-                <div class="testimonial-item">
-                  <img src="assets/img/testimonials/PARENT3.jpg" class="testimonial-img" alt="">
-                  <h3>Matt Brandon</h3>
-                  <h4>Parent</h4>
-                  <p>
-                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                    10/10
-                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                  </p>
-                </div>
-              </div>
-            </div><!-- End testimonial item -->
-
-<!--            <div class="swiper-slide">-->
-<!--              <div class="testimonial-wrap">-->
-<!--                <div class="testimonial-item">-->
-<!--                  <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">-->
-<!--                  <h3>John Larson</h3>-->
-<!--                  <h4>Entrepreneur</h4>-->
-<!--                  <p>-->
-<!--                    <i class="bx bxs-quote-alt-left quote-icon-left"></i>-->
-<!--                    Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.-->
-<!--                    <i class="bx bxs-quote-alt-right quote-icon-right"></i>-->
-<!--                  </p>-->
-<!--                </div>-->
-<!--              </div>-->
-<!--            </div>&lt;!&ndash; End testimonial item &ndash;&gt;-->
-
+        <div class="row">
+          <div class="col-lg-3">
+            <ul class="nav nav-tabs flex-column">
+              <li class="nav-item">
+                <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Modi sit est</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Unde praesentium sed</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Pariatur explicabo vel</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Nostrum qui quasi</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Iusto ut expedita aut</a>
+              </li>
+            </ul>
           </div>
-          <div class="swiper-pagination"></div>
+          <div class="col-lg-9 mt-4 mt-lg-0">
+            <div class="tab-content">
+              <div class="tab-pane active show" id="tab-1">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>Speech Therapy</h3>
+<!--                    <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>-->
+                    <p>Speech therapy is the assessment and treatment of communication problems and speech disorders. It is performed by speech-language pathologists (SLPs), which are often referred to as speech therapists.</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/course-details-tab-1.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-2">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>Et blanditiis nemo veritatis excepturi</h3>
+                    <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
+                    <p>Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/course-details-tab-2.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-3">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>Impedit facilis occaecati odio neque aperiam sit</h3>
+                    <p class="fst-italic">Eos voluptatibus quo. Odio similique illum id quidem non enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat perferendis aut</p>
+                    <p>Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a iste odio. Earum odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/course-details-tab-3.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-4">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>Fuga dolores inventore laboriosam ut est accusamus laboriosam dolore</h3>
+                    <p class="fst-italic">Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus</p>
+                    <p>Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam quia a laborum inventore</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/course-details-tab-4.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+              <div class="tab-pane" id="tab-5">
+                <div class="row">
+                  <div class="col-lg-8 details order-2 order-lg-1">
+                    <h3>Est eveniet ipsam sindera pad rone matrelat sando reda</h3>
+                    <p class="fst-italic">Omnis blanditiis saepe eos autem qui sunt debitis porro quia.</p>
+                    <p>Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel</p>
+                  </div>
+                  <div class="col-lg-4 text-center order-1 order-lg-2">
+                    <img src="assets/img/course-details-tab-5.png" alt="" class="img-fluid">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section><!-- End Cource Details Tabs Section -->
 
   </main><!-- End #main -->
 
@@ -289,6 +269,7 @@
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Keep in touch</h4>
+
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
